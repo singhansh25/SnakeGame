@@ -1,0 +1,1 @@
+A complete Snake game with features including dynamic movement, collision detection, and score management. Also, incorporated real-time game updates and visual feedback, such as game-over messages and score display.
